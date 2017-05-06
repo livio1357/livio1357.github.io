@@ -1,0 +1,216 @@
+@charset "utf-8";
+.container {
+	background-color: lightgrey;
+}
+.header {
+	  
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    margin-top: -5px;
+}
+.logo {
+	
+	float: left;
+	width: 50%;
+	text-align: center;
+	margin: auto;
+	padding: auto;
+	line-height: 60px;
+}
+#name {
+	margin-bottom:10px;
+	display: inline-block;
+	float: left;
+	width: auto;
+	text-align: center;
+	vertical-align: middle;
+	background-color: teal;
+	margin-left: 20%;
+	
+	font-size: 28px;
+	color: white;
+	font-weight: bolder;
+}
+
+
+.mainblock {
+	    clear: both;
+    float: left;
+    width: 500px;
+    height: auto;
+    padding: 0 44px;
+    margin: 1px 49px;
+    background-color: white;
+    margin-top: 25px;
+}
+.maintitle {
+	       color: teal;
+    width: 100%;
+    border-bottom: solid 2px gray;
+    padding-top: 10px;
+    font-size: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+#profilepic {
+	    float: left;
+    display: inline-block;
+    height: 150px;
+    width: auto;
+    padding-top: 20px;
+}
+.contact {
+float: left;
+    width: auto;
+    height: auto;
+    background-color: white;
+    margin-top: 25px;
+}
+.contacttitle {
+	text-align: center;
+	width: 100%;
+	line-height: 24px;
+	border-bottom: solid 2px gray;
+	padding-bottom:10px;
+}
+.contact-ul {
+	list-style-type: none;
+	width: 100%;
+	margin: auto;
+	padding-top:25px;
+}
+.contact-li {
+	float: left;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	padding-top: 25px;
+}
+.contact img {
+	height: 100px;
+	width: 100px;
+}
+.contact h3 {
+	    color: teal;
+    font-size: 25px;
+    padding-top: 5px;
+}
+.footer {
+	    clear: both;
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    top: 30px;
+
+
+}
+
+.portitem-img{
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+}
+
+.footer-copy{
+
+text-align: center;
+padding-top: 25px;
+
+
+}
+
+.nav {
+	
+	height: 60px;
+	margin-top: 200px
+	margin-left: 50px;}
+
+.nav-ul {
+	list-style-type: none;
+}
+
+
+
+
+.nav-li {
+	    float: left;
+    margin: 23px 10px;
+    height: 20px;
+
+}
+#sec{
+	    border-right: solid 1px gray;
+    border-left: solid 1px gray;
+    padding: 18px 10px;
+    margin: 5px 10px;
+}
+.portitems{
+	list-style-type: none;
+}
+.portitem{
+	float: left;
+    height: 250px;
+    width: 200px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 27px;
+}
+
+
+.submit{
+
+    height: 25px;
+    width: 50px;
+    background-color: lightblue;
+
+}
+
+.email{
+
+padding-top: 15px;
+
+}
+
+.transbox { position: absolute;
+margin-top: -50px;
+margin-left: ;
+height: 20px;
+width: 200px;
+  background-color: #20B2AA;
+
+
+
+}
+
+.color-1{
+    padding-top: 20px;
+
+}
+
+
+
+.color-2{
+
+
+
+
+
+}
+
+
+
+.color-3{
+
+
+
+
+
+
+}
+
+
+
