@@ -89,9 +89,11 @@ float: left;
 	padding-top: 25px;
 }
 .contact img {
-	height: 100px;
-	width: 100px;
+    height: 100px;
+    width: 100px;
+    padding-left: 20px;
 }
+
 .contact h3 {
 	    color: teal;
     font-size: 25px;
